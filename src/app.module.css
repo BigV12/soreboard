@@ -1,0 +1,71 @@
+body{
+    background-color: white;
+}
+.card{
+
+    display: flex;
+    flex-direction: column;
+    
+    flex-wrap: wrap;
+
+    background-color: white;
+    align-items: center;
+   margin-top: 10%;
+}
+
+.container{
+    justify-content: space-around; 
+    background-color: blue;
+    color: white;
+    box-shadow: 3px 3px 3px#888888;
+    border-radius: 5px;
+    
+}
+
+
+input{
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 10px;
+    border: none;
+   
+}
+
+.submit{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-right: 10px;
+    border: none;
+
+}
+
+.dele{
+ width: 100px;
+ height: 30px;
+ margin-left: 10px;
+ border-radius: 5px;
+ border: none;
+}
+
+h2{
+    text-align: center;
+}
+li{
+  
+   list-style-type:none;
+   border-radius: 5px;
+    margin-top: 10px;
+text-align: center;
+
+
+    
+   
+}
+
+ul{
+    padding: 0px;
+    margin-top: 0px;
+}
+

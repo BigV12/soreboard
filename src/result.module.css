@@ -1,0 +1,38 @@
+.container {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgb(126, 32, 32);
+  margin-top: 5px;
+}
+.containers {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgb(33, 34, 30);
+  margin-top: 5px;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+  margin-left: 0px;
+}
+
+.student_name {
+}
+
+.about_me {
+}
+
+.overall_score {
+}
+
+body {
+  background-color: rgb(200, 190, 190);
+}
